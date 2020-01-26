@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aman4technology.github.io/</id>
     <title>AMan4Technology</title>
-    <updated>2020-01-06T09:05:45.371Z</updated>
+    <updated>2020-01-26T14:22:39.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aman4technology.github.io/"/>
     <link rel="self" href="https://aman4technology.github.io/atom.xml"/>
@@ -10,6 +10,19 @@
     <logo>https://aman4technology.github.io/images/avatar.png</logo>
     <icon>https://aman4technology.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, AMan4Technology</rights>
+    <entry>
+        <title type="html"><![CDATA[新型冠状病毒肺炎——有用的消息汇总]]></title>
+        <id>https://aman4technology.github.io/post/fy-msg</id>
+        <link href="https://aman4technology.github.io/post/fy-msg">
+        </link>
+        <updated>2020-01-26T14:02:07.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="好消息">好消息😷</h2>
+<h3 id="治愈可能较大">治愈可能较大👏</h3>
+<p><a href="https://vp.fact.qq.com/article?id=8b36f4248c4967953508a03a6b6a5e7a&amp;ADTAG=xw-1.jz">这次新型肺炎虽然传染很厉害，但是目前已经能够很好的治疗了，大部分患者<strong>2-4</strong>周就可以被治愈。</a></p>
+<h3 id="治疗药物">治疗药物👍</h3>
+<p><a href="https://vp.fact.qq.com/article?id=5677221c80216203d73ea7fb2dc7e0e7&amp;ADTAG=xw-1.jz">钟南山院士表示，目前已有几种药物准备用于新型冠状病毒肺炎的临床治疗，且已经确认是安全的。</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://aman4technology.github.io/post/hello-gridea</id>
